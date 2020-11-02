@@ -1,0 +1,198 @@
+{
+  "id": "2062250",
+  "name": "信息网后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2425066",
+      "name": "404",
+      "font_class": "icon_404",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "10568383",
+      "name": "供应商",
+      "font_class": "supplier",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "15454938",
+      "name": "热卖商品",
+      "font_class": "goods",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "16308161",
+      "name": "订单管理",
+      "font_class": "order",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7228905",
+      "name": "订单管理",
+      "font_class": "dingdan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12004487",
+      "name": "icon_总访问量",
+      "font_class": "dayReq",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "1440888",
+      "name": "访问量",
+      "font_class": "dayAdd",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8431859",
+      "name": "访问量",
+      "font_class": "allReq",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1857614",
+      "name": "资讯",
+      "font_class": "information",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "9560522",
+      "name": "banner",
+      "font_class": "banner",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "4302798",
+      "name": "客户管理",
+      "font_class": "customer",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2870761",
+      "name": "操作日志",
+      "font_class": "management",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11038608",
+      "name": "数据字典",
+      "font_class": "dictionary",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2331475",
+      "name": "会员管理",
+      "font_class": "huiyuanguanli",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "3796163",
+      "name": "用户管理",
+      "font_class": "yonghu",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12922741",
+      "name": "无权限",
+      "font_class": "nopromission",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "289251",
+      "name": "404",
+      "font_class": "404",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1480607",
+      "name": "广告",
+      "font_class": "ad",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2459113",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2461680",
+      "name": "商家",
+      "font_class": "shangjia",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "9446026",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "9882488",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13953757",
+      "name": "售后",
+      "font_class": "shouhou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16197027",
+      "name": "标讯查询",
+      "font_class": "biaoxun",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "12726342",
+      "name": "dashbord",
+      "font_class": "dashbord",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16304894",
+      "name": "登录页面-退出登录",
+      "font_class": "logout",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "16846857",
+      "name": "密 码",
+      "font_class": "password",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+@mixin header_font_color{
+  [data-theme="dark"] & {
+   color:#8B8F9A
+  }
+  [data-theme="bright"] & {
+    color:#484848
+  }
+}

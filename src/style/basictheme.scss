@@ -1,0 +1,36 @@
+
+$basictheme-color: #37A2DA;
+$basictheme-hover-color: #509cc5;
+$menu-active-color: #0270c1;
+
+$default-success: #67C23A;
+$default-fail: #F56C6C;
+$default-warning: #e6a23c;
+
+//定义全局主题&颜色的map数组，鉴于V5只有白天和晚上的主题，此处仅定义这两种
+//切记 所有颜色一式两份儿，务必保证key值统一，key值可以自定义，注意避免$%_之类的，
+//与sass自有符号冲突，见文知意即可
+//另外如果基于其他UI框架，如本项目基于element-ui，则只需设置一套dark主题，
+//data-theme为dark时，样式引用dark
+//data-theme为其他值时，自然就采用了elementui的默认样式
+
+$themes: (
+  light: (
+    font_color1: rgb(196, 193, 193),
+    font_color2: rgb(110, 109, 109),
+    background_color:#fff,
+    background_color1:#37A2DA,
+    background_color2:rgb(51, 51, 51),
+    border_color1: rgb(231, 181, 181),
+    border_color2: rgb(9, 255, 0)
+  ),
+  dark: (
+    font_color1: rgb(226, 222, 222),
+    font_color2: rgb(255, 255, 255),
+    background_color:#eee,
+    background_color1: rgb(51, 51, 51),
+    background_color2: #37A2DA,
+    border_color1: rgb(9, 255, 0),
+    border_color2: rgb(231, 181, 181)
+  )
+);
