@@ -5,15 +5,13 @@
 			class="el-menu-vertical-demo"
 			text-color="#fff"
 			background-color="#333"
-			active-text-color="#fff"
-		>
+			active-text-color="#fff">
 			<el-menu-item
 				index="index"
 				v-for="(item, index) in menuTree"
 				:key="index"
 				class="menu-item"
-				@click="clickRouter(item)"
-			>
+				@click="clickRouter(item)">
 				<svg class="iconfont icon-svg" aria-hidden="true">
 					<use :xlink:href="`#${item.icon}`"></use>
 				</svg>
